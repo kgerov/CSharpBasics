@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaClass\OperatorsAndExpressionsHomework\OperatorsAndExpressionsHomework\bin\Debug\OperatorsAndExpressionsHomework.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaClass\OperatorsAndExpressionsHomework\OperatorsAndExpressionsHomework\bin\Debug\OperatorsAndExpressionsHomework.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaClass\OperatorsAndExpressionsHomework\OperatorsAndExpressionsHomework\bin\Debug\OperatorsAndExpressionsHomework.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaClass\OperatorsAndExpressionsHomework\OperatorsAndExpressionsHomework\obj\Debug\OperatorsAndExpressionsHomework.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\aaClass\OperatorsAndExpressionsHomework\OperatorsAndExpressionsHomework\obj\Debug\OperatorsAndExpressionsHomework.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaClass\OperatorsAndExpressionsHomework\OperatorsAndExpressionsHomework\obj\Debug\OperatorsAndExpressionsHomework.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\3.OperatorsAndExpressionsHomework\OperatorsAndExpressionsHomework\bin\Debug\OperatorsAndExpressionsHomework.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\3.OperatorsAndExpressionsHomework\OperatorsAndExpressionsHomework\obj\Debug\OperatorsAndExpressionsHomework.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\3.OperatorsAndExpressionsHomework\OperatorsAndExpressionsHomework\obj\Debug\OperatorsAndExpressionsHomework.pdb

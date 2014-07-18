@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\14. Longest Word in Text\bin\Debug\_14.Longest_Word_in_Text.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\14. Longest Word in Text\bin\Debug\_14.Longest_Word_in_Text.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\14. Longest Word in Text\bin\Debug\_14.Longest_Word_in_Text.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\14. Longest Word in Text\obj\Debug\_14.Longest_Word_in_Text.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\14. Longest Word in Text\obj\Debug\_14.Longest_Word_in_Text.pdb

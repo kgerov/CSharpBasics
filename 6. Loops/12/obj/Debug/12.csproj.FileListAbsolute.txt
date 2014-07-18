@@ -1,0 +1,2 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\5. ConditionalStatements\12\bin\Debug\12.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\6. Loops\12\bin\Debug\12.exe.config

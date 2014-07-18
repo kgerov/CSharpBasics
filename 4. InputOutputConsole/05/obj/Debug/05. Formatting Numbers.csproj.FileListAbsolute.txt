@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\05\bin\Debug\05.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\05\obj\Debug\05.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\05\obj\Debug\05.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\05\bin\Debug\05.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\05\obj\Debug\05.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\05\obj\Debug\05.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Debugger\bin\Debug\Debugger.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Debugger\bin\Debug\Debugger.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Debugger\bin\Debug\Debugger.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Debugger\obj\Debug\Debugger.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Debugger\obj\Debug\Debugger.pdb

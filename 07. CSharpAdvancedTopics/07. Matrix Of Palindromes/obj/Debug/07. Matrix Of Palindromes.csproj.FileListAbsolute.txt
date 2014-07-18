@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. Matrix Of Palindromes\bin\Debug\_07.Matrix_Of_Palindromes.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. Matrix Of Palindromes\bin\Debug\_07.Matrix_Of_Palindromes.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. Matrix Of Palindromes\bin\Debug\_07.Matrix_Of_Palindromes.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. Matrix Of Palindromes\obj\Debug\07. Matrix Of Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. Matrix Of Palindromes\obj\Debug\_07.Matrix_Of_Palindromes.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. Matrix Of Palindromes\obj\Debug\_07.Matrix_Of_Palindromes.pdb

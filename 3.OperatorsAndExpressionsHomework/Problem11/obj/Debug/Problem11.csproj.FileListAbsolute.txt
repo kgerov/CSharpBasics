@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\3.OperatorsAndExpressionsHomework\Problem11\bin\Debug\Problem11.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\3.OperatorsAndExpressionsHomework\Problem11\bin\Debug\Problem11.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\3.OperatorsAndExpressionsHomework\Problem11\bin\Debug\Problem11.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\3.OperatorsAndExpressionsHomework\Problem11\obj\Debug\Problem11.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\3.OperatorsAndExpressionsHomework\Problem11\obj\Debug\Problem11.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\3.OperatorsAndExpressionsHomework\Problem11\obj\Debug\Problem11.pdb

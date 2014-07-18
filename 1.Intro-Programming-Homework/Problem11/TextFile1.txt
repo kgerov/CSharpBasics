@@ -1,0 +1,32 @@
+﻿
+Python
+
+It is  a high-class programming language with some what simple syntax which allows users to express their ideas in fewer lines of codes. Python is often used from web applications because of its simplicity. 
+
+
+
+
+C++
+
+C++ is a intermediate level programming language because it is compromises high-level and low-level features. It supports the following paradigms:  procedural, functional, object-oriented, generic.
+
+
+
+
+C
+
+C is an imperative structured language which is the previous version of C++. C++ is actually named "++" because "++" means plus one and it shows that is the next version. C has a lot similarities with C++ but it doesn't have so many features and its syntax is more complicated.
+
+
+
+
+SQL
+
+SQL is a structured programming language created to help in managing of data in RDBMS. SQL is used by Oracle for many project and many database related programs are created with it.
+
+
+
+
+Java
+
+Java is one of the most used programming languages nowadays. Java has not complex syntax; however, it is not really fast to code in it. Java is the language required for the AP computer science test. 

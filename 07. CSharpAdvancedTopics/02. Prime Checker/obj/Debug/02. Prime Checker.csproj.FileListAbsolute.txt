@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\02. Prime Checker\bin\Debug\_02.Prime_Checker.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\02. Prime Checker\obj\Debug\_02.Prime_Checker.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\02. Prime Checker\obj\Debug\_02.Prime_Checker.pdb

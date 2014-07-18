@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. CSharpAdvancedTopics\bin\Debug\_07.CSharpAdvancedTopics.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. CSharpAdvancedTopics\bin\Debug\_07.CSharpAdvancedTopics.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. CSharpAdvancedTopics\bin\Debug\_07.CSharpAdvancedTopics.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. CSharpAdvancedTopics\obj\Debug\0007. CSharpAdvancedTopics.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. CSharpAdvancedTopics\obj\Debug\_07.CSharpAdvancedTopics.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\07. CSharpAdvancedTopics\obj\Debug\_07.CSharpAdvancedTopics.pdb

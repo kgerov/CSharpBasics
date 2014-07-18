@@ -1,0 +1,5 @@
+﻿Emacs 
+Emacs and its deralatives are a family of text editors that are charactarized by their extensibility. It was written by Richard Stallman and Guy L. Steele.
+
+Xcode
+It is a IDE for developing software on Mac OS and it is created by apple. It supports C and C++. 

@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem5\bin\Debug\Problem5.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem5\bin\Debug\Problem5.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem5\bin\Debug\Problem5.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem5\obj\Debug\Problem5.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem5\obj\Debug\Problem5.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem5\obj\Debug\Problem5.pdb

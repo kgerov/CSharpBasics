@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Problem9Sequence\bin\Debug\Problem9Sequence.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Problem9Sequence\bin\Debug\Problem9Sequence.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Problem9Sequence\bin\Debug\Problem9Sequence.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Problem9Sequence\obj\Debug\Problem9Sequence.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\Problem9Sequence\obj\Debug\Problem9Sequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\09. RemoveNames\bin\Debug\_09.RemoveNames.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\09. RemoveNames\bin\Debug\_09.RemoveNames.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\09. RemoveNames\bin\Debug\_09.RemoveNames.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\09. RemoveNames\obj\Debug\09. RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\09. RemoveNames\obj\Debug\_09.RemoveNames.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\09. RemoveNames\obj\Debug\_09.RemoveNames.pdb

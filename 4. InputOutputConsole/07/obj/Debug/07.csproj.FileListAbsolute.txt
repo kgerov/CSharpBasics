@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\07\bin\Debug\07.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\07\bin\Debug\07.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\07\bin\Debug\07.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\07\obj\Debug\07.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\07\obj\Debug\07.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\4. InputOutputConsole\07\obj\Debug\07.csprojResolveAssemblyReference.cache

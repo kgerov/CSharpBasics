@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem6\bin\Debug\Problem6.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem6\bin\Debug\Problem6.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem6\bin\Debug\Problem6.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem6\obj\Debug\Problem10.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem6\obj\Debug\Problem6.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem6\obj\Debug\Problem6.pdb

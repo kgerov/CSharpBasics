@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\TimeAndDate\bin\Debug\TimeAndDate.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\TimeAndDate\bin\Debug\TimeAndDate.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\TimeAndDate\bin\Debug\TimeAndDate.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\TimeAndDate\obj\Debug\TimeAndDate.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\TimeAndDate\obj\Debug\TimeAndDate.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\Intro-Programming-Homework\TimeAndDate\obj\Debug\TimeAndDate.pdb

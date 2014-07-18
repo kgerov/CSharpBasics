@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\06. Longest Area In An Array\bin\Debug\_06.Longest_Area_In_An_Array.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\06. Longest Area In An Array\bin\Debug\_06.Longest_Area_In_An_Array.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\06. Longest Area In An Array\bin\Debug\_06.Longest_Area_In_An_Array.pdb
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\06. Longest Area In An Array\obj\Debug\06. Longest Area In An Array.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\06. Longest Area In An Array\obj\Debug\_06.Longest_Area_In_An_Array.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\07. CSharpAdvancedTopics\06. Longest Area In An Array\obj\Debug\_06.Longest_Area_In_An_Array.pdb

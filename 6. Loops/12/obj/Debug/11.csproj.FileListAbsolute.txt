@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\6. Loops\12\bin\Debug\12.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\6. Loops\12\bin\Debug\12.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\6. Loops\12\bin\Debug\12.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\6. Loops\12\obj\Debug\12.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\6. Loops\12\obj\Debug\12.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\6. Loops\12\obj\Debug\11.csprojResolveAssemblyReference.cache

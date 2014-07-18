@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem2\bin\Debug\Problem2.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem2\bin\Debug\Problem2.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem2\obj\Debug\Problem2.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\aaHomework\DataTypes\Problem2\obj\Debug\Problem2.pdb

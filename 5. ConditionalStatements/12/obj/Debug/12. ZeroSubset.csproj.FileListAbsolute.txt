@@ -1,0 +1,3 @@
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\5. ConditionalStatements\12\bin\Debug\12.exe.config
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\5. ConditionalStatements\12\obj\Debug\12.exe
+C:\Users\Dimitar\Documents\Visual Studio 2013\aaHomework\5. ConditionalStatements\12\obj\Debug\12.pdb

@@ -1,0 +1,1 @@
+﻿.NET isn't just a library but it can also execute application. You can use other languages to write in .NET so if you know C# you know somethings but .NET; however, the opposite is not true.
